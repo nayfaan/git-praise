@@ -18,4 +18,4 @@ Just drop the script anywhere in your `$PATH` and git will pick it up.
 
 License
 -------
-Licensed under good 'ol [MIT](http://en.wikipedia.org/wiki/MIT_License).
+Licensed under good ol' [MIT](http://en.wikipedia.org/wiki/MIT_License).
